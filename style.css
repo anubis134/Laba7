@@ -7,6 +7,10 @@ and open the template in the editor.
     Created on : 06.04.2021, 1:54:11
     Author     : anubi
 */
+body{
+ margin:0px;
+ padding-left:30%;
+}
 #main{
  width:800px;
  background-image: url(images/fon_bg.jpg);
@@ -70,3 +74,5 @@ and open the template in the editor.
  background-image: url(images/footer.jpg);
  background-repeat: repeat-x;
 }
+
+ 
